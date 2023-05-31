@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://imgur.com/zat8bzu.jpeg" width="300" />
+  <img src="https://imgur.com/zat8bzu.jpeg" width="280" />
 </p>
 
 ## Features 🚀
