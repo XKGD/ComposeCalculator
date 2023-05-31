@@ -18,7 +18,7 @@
 
 ## Prerequisites 🛠️
 
-- Android Studio
+- Android Studio (minSdk : 24)
 - Basic knowledge of Android development using Kotlin
 
 ## How to Run the Project ▶️
