@@ -26,7 +26,7 @@
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/XKGD/ComposeCalculator.git
+   git clone https://github.com/dylanlmr/ComposeCalculator.git
 
 2. Open Android Studio and select "Open a Project".
 3. Navigate to the location where you cloned the repository and open it.
